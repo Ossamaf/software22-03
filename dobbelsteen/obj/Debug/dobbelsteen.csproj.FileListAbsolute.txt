@@ -1,0 +1,9 @@
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\bin\Debug\dobbelsteen.exe.config
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\bin\Debug\dobbelsteen.exe
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\bin\Debug\dobbelsteen.pdb
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\obj\Debug\dobbelsteen.csprojResolveAssemblyReference.cache
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\obj\Debug\dobbelsteen.Form1.resources
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\obj\Debug\dobbelsteen.Properties.Resources.resources
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\obj\Debug\dobbelsteen.csproj.GenerateResource.Cache
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\obj\Debug\dobbelsteen.exe
+c:\users\systeembeheer\documents\visual studio 2017\Projects\WindowsFormsApp1\dobbelsteen\obj\Debug\dobbelsteen.pdb
